@@ -1,0 +1,7 @@
+shirts 100
+
+jeens 200
+
+t shirts 50
+
+
